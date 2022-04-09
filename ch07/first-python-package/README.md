@@ -7,3 +7,5 @@ This package does amazing things.
 ```shell
 $ python -m pip install pubpypack-harmony-dane-hillard
 ```
+
+## Stub
